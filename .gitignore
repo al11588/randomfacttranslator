@@ -1,0 +1,39 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Database files
+facts.db
+*.db
+*.sqlite3
+*.sqlite
+
+# CSV exports
+facts_export_*.csv
+*.csv
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Local development settings
+.DS_Store 
