@@ -6,10 +6,6 @@ The Random Fact
 
 ![Random Fact image] ()
 
-The Random Fact Translated
-
-![Random Fact Translated image] ()
-
 
 # Programming Stack: 
 
