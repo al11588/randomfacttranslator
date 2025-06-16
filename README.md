@@ -4,7 +4,7 @@ A Python script that translates random facts to Spanish, French, Italian and Ara
 
 The Random Fact
 
-![Random Fact image] ()
+![Random Fact image](https://github.com/al11588/randomfacttranslator/blob/main/RandomFactImage.jpg)
 
 
 # Programming Stack: 
